@@ -1,0 +1,178 @@
+[
+      {
+        "id": 1,
+        "chef_picture": "/images/chef-images/chef1.jpg",
+        "chef_name": "Gennaro Contaldo",
+        "years_of_experience": 50,
+        "number_of_recipes": 200,
+        "likes": 15000,
+        "bio": "Gennaro Contaldo is an Italian chef and restaurateur who has been cooking for over 50 years. He is known for his simple, rustic Italian dishes and his passion for fresh, seasonal ingredients. He has written several cookbooks and appeared on numerous cooking shows.",
+        "recipes": [
+          {
+            "recipe_name": "Pesto Pasta",
+            "ingredients": ["spaghetti", "fresh basil leaves", "pine nuts", "garlic", "Parmesan cheese"],
+            "cooking_method": "1. Cook spaghetti in salted boiling water until al dente. 2. While the pasta is cooking, make the pesto sauce by blending the basil, pine nuts, garlic, and Parmesan cheese in a food processor. 3. Drain the pasta and toss with the pesto sauce. Serve immediately.",
+            "rating": 4.5
+          },
+          {
+            "recipe_name": "Minestrone Soup",
+            "ingredients": ["vegetable stock", "onion", "garlic", "carrots", "celery", "zucchini"],
+            "cooking_method": "1. In a large pot, heat some olive oil and sauté the onion and garlic until translucent. 2. Add the carrots, celery, and zucchini and cook for a few minutes. 3. Add the vegetable stock and bring to a boil. 4. Reduce the heat and simmer until the vegetables are tender. 5. Serve hot.",
+            "rating": 4.0
+          },
+          {
+            "recipe_name": "Tortellini in Brodo",
+            "ingredients": ["tortellini", "chicken broth", "Parmigiano-Reggiano cheese"],
+            "cooking_method": "1. In a large pot, bring the chicken broth to a boil. 2. Add the tortellini and cook until al dente. 3. Serve hot, topped with grated Parmigiano-Reggiano cheese.",
+            "rating": 4.5
+            }
+        ]
+      },
+      {
+        "id": 2,
+        "chef_picture": "/images/chef-images/chef2.jpg",
+        "chef_name": "Massimo Bottura",
+        "years_of_experience": 30,
+        "number_of_recipes": 150,
+        "likes": 25000,
+        "bio": "Massimo Bottura is a world-renowned Italian chef who has been cooking for over 30 years. He is the owner of the three-Michelin-starred restaurant Osteria Francescana in Modena, Italy, and is known for his innovative, avant-garde approach to Italian cuisine. He has been named the World's Best Chef by the World's 50 Best Restaurants awards.",
+        "recipes": [
+          {
+            "recipe_name": "Parmigiano-Reggiano Five Ages",
+            "ingredients": ["Parmigiano-Reggiano cheese", "balsamic vinegar", "honey", "olive oil"],
+            "cooking_method": "1. Cut the Parmigiano-Reggiano cheese into small pieces and arrange them on a plate. 2. Drizzle with balsamic vinegar and honey. 3. Drizzle with olive oil. 4. Serve immediately.",
+            "rating": 5.0
+          },
+          {
+            "recipe_name": "Minestrone Soup",
+            "ingredients": ["vegetable stock", "onion", "garlic", "carrots", "celery", "zucchini"],
+            "cooking_method": "1. In a large pot, heat some olive oil and sauté the onion and garlic until translucent. 2. Add the carrots, celery, and zucchini and cook for a few minutes. 3. Add the vegetable stock and bring to a boil. 4. Reduce the heat and simmer until the vegetables are tender. 5. Serve hot.",
+            "rating": 4.0
+          },
+          {
+            "recipe_name": "Tortellini in Brodo",
+            "ingredients": ["tortellini", "chicken broth", "Parmigiano-Reggiano cheese"],
+            "cooking_method": "1. In a large pot, bring the chicken broth to a boil. 2. Add the tortellini and cook until al dente. 3. Serve hot, topped with grated Parmigiano-Reggiano cheese.",
+            "rating": 4.5
+            }
+            ]
+            },
+            {
+            "id": 3,
+            "chef_picture": "/images/chef-images/chef3.jpg",
+            "chef_name": "Carlo Cracco",
+            "years_of_experience": 25,
+            "number_of_recipes": 100,
+            "likes": 18000,
+            "bio": "Carlo Cracco is an Italian chef and restaurateur who has been cooking for over 25 years. He is the owner of the two-Michelin-starred restaurant Cracco in Milan, Italy, and is known for his contemporary take on traditional Italian cuisine. He has been a judge on the Italian version of MasterChef.",
+            "recipes": [
+            {
+            "recipe_name": "Osso Buco",
+            "ingredients": ["veal shanks", "onion", "carrots", "celery", "tomato paste", "white wine"],
+            "cooking_method": "1. In a large pot, heat some olive oil and brown the veal shanks on both sides. 2. Remove the shanks from the pot and set aside. 3. In the same pot, sauté the onion, carrots, and celery until softened. 4. Add the tomato paste and cook for a few minutes. 5. Add the white wine and let it evaporate. 6. Return the veal shanks to the pot and add enough water to cover them. 7. Simmer for about 2 hours, until the meat is tender. 8. Serve hot.",
+            "rating": 4.0
+            },
+            {
+              "recipe_name": "Spaghetti Carbonara",
+              "ingredients": ["spaghetti", "guanciale", "egg yolks", "Pecorino Romano cheese", "black pepper"],
+              "cooking_method": "1. Cook spaghetti in salted boiling water until al dente. 2. In a pan, fry the guanciale until crispy. 3. In a bowl, whisk together the egg yolks, grated Pecorino Romano cheese, and black pepper. 4. Drain the spaghetti and reserve some of the cooking water. 5. Add the spaghetti to the pan with the guanciale and toss to coat. 6. Remove from heat and add the egg mixture, stirring quickly to avoid scrambling the eggs. 7. Add a splash of the reserved cooking water to make the sauce creamy. 8. Serve hot.",
+              "rating": 4.8
+              },
+            {
+            "recipe_name": "Risotto alla Milanese",
+            "ingredients": ["arborio rice", "onion", "saffron threads", "Parmigiano-Reggiano cheese", "butter"],
+            "cooking_method": "1. In a large pot, sauté the onion in some butter until translucent. 2. Add the arborio rice and toast for a few minutes. 3. Add enough hot water to cover the rice and simmer until the water has been absorbed. 4. Add more hot water, a ladleful at a time, stirring constantly, until the rice is cooked but still al dente. 5. Add the saffron threads and grated Parmigiano-Reggiano cheese and stir until melted. 6. Serve hot.",
+            "rating": 4.5
+            }
+            ]
+            },
+            {
+            "id": 4,
+            "chef_picture": "/images/chef-images/chef4.jpg",
+            "chef_name": "Antonio Carluccio",
+            "years_of_experience": 45,
+            "number_of_recipes": 250,
+            "likes": 12000,
+            "bio": "Antonio Carluccio was an Italian chef, restaurateur, and author who cooked for over 45 years. He was known as the 'godfather of Italian gastronomy' and was a regular on cooking shows. He passed away in 2017.",
+            "recipes": [
+            {
+            "recipe_name": "Spaghetti Carbonara",
+            "ingredients": ["spaghetti", "guanciale", "egg yolks", "Pecorino Romano cheese", "black pepper"],
+            "cooking_method": "1. Cook spaghetti in salted boiling water until al dente. 2. In a pan, fry the guanciale until crispy. 3. In a bowl, whisk together the egg yolks, grated Pecorino Romano cheese, and black pepper. 4. Drain the spaghetti and reserve some of the cooking water. 5. Add the spaghetti to the pan with the guanciale and toss to coat. 6. Remove from heat and add the egg mixture, stirring quickly to avoid scrambling the eggs. 7. Add a splash of the reserved cooking water to make the sauce creamy. 8. Serve hot.",
+            "rating": 4.8
+            },
+            {
+              "recipe_name": "Minestrone Soup",
+              "ingredients": ["vegetable stock", "onion", "garlic", "carrots", "celery", "zucchini"],
+              "cooking_method": "1. In a large pot, heat some olive oil and sauté the onion and garlic until translucent. 2. Add the carrots, celery, and zucchini and cook for a few minutes. 3. Add the vegetable stock and bring to a boil. 4. Reduce the heat and simmer until the vegetables are tender. 5. Serve hot.",
+              "rating": 4.0
+            },
+            {
+            "recipe_name": "Focaccia",
+            "ingredients": ["flour", "water", "yeast", "salt", "olive oil"],
+            "cooking_method": "1. In a bowl, mix together the flour, water, yeast, and salt until a dough forms. 2. Knead the dough for about 10 minutes, then let it rise for 1 hour. 3. Preheat the oven to 220°C. 4. On a floured surface, roll out the dough to the desired thickness. 5. Transfer the dough to a baking sheet and press your fingers into the surface to create dimples. 6. Drizzle with olive oil and sprinkle with sea salt. 7. Bake for about 20 minutes, until golden brown. 8. Serve warm.",
+            "rating": 4.3
+            }
+            ]
+            },
+            {
+            "id": 5,
+            "chef_picture": "/images/chef-images/chef5.jpg",
+            "chef_name": "Massimo Bottura",
+            "years_of_experience": 30,
+            "number_of_recipes": 90,
+            "likes": 28000,
+            "bio": "Massimo Bottura is an Italian chef and restaurateur who has been cooking for over 30 years. He is the owner of the three-Michelin-starred restaurant Osteria Francescana in Modena, Italy, and is known for his avant-garde approach to traditional Italian cuisine. He was also featured on Netflix's Chef's Table.",
+            "recipes": [
+            {
+            "recipe_name": "Tortellini in Brodo",
+            "ingredients": ["pork shoulder", "mortadella", "Parmigiano-Reggiano cheese", "nutmeg", "prosciutto", "chicken broth"],
+            "cooking_method": "1. In a food processor, combine the pork shoulder, mortadella, grated Parmigiano-Reggiano cheese, and grated nutmeg until smooth. 2. Using a pasta roller, roll out the pasta dough and cut into small circles. 3. Place a small dollop of the pork mixture in the center of each circle. 4. Fold the circle in half and press the edges together to seal, then bring the corners together and press to form a tortellini shape. 5. In a pot, heat the chicken broth and add some diced prosciutto. 6. Add the tortellini to the broth and simmer until cooked. 7. Serve hot.",
+            "rating": 4.7
+            },
+            {
+            "recipe_name": "Tagliatelle al Ragu",
+            "ingredients": ["beef chuck", "carrots", "celery", "onion", "tomato paste", "red wine", "tagliatelle pasta"],
+            "cooking_method": "1. In a large pot, brown the beef chuck in some olive oil. 2. Remove the beef from the pot and set aside. 3. In the same pot, sauté the carrots, celery, and onion until softened. 4. Add the tomato paste and cook for a few minutes. 5. Add the brown beef back to the pot and stir to combine. 6. Pour in the red wine and let it cook down. 7. Add enough water to cover the beef and vegetables, and let simmer for several hours. 8. Cook the tagliatelle pasta according to package instructions. 9. Serve the pasta with the ragu on top and grated Parmigiano-Reggiano cheese.",
+            "rating": 4.9
+            },
+            {
+              "recipe_name": "Pesto Genovese",
+              "ingredients": ["basil leaves", "garlic", "pine nuts", "Parmigiano-Reggiano cheese", "olive oil"],
+              "cooking_method": "1. In a mortar and pestle, crush the garlic and pine nuts until smooth. 2. Add the basil leaves and continue crushing until you have a paste. 3. Stir in grated Parmigiano-Reggiano cheese. 4. Slowly add olive oil while stirring to create a smooth sauce. 5. Season with salt and pepper. 6. Serve with pasta or as a topping for bruschetta.",
+              "rating": 4.5
+              }
+
+            ]
+            },
+            {
+            "id": 6,
+            "chef_picture": "/images/chef-images/chef6.jpg",
+            "chef_name": "Gennaro Contaldo",
+            "years_of_experience": 50,
+            "number_of_recipes": 75,
+            "likes": 17000,
+            "bio": "Gennaro Contaldo is an Italian chef who has been cooking for over 50 years. He was born in Minori, Italy, and began working in local restaurants at a young age. He later moved to London, where he opened several successful Italian restaurants. He has also appeared on numerous TV shows, including Jamie Oliver's Food Tube.",
+            "recipes": [
+            {
+            "recipe_name": "Pesto Genovese",
+            "ingredients": ["basil leaves", "garlic", "pine nuts", "Parmigiano-Reggiano cheese", "olive oil"],
+            "cooking_method": "1. In a mortar and pestle, crush the garlic and pine nuts until smooth. 2. Add the basil leaves and continue crushing until you have a paste. 3. Stir in grated Parmigiano-Reggiano cheese. 4. Slowly add olive oil while stirring to create a smooth sauce. 5. Season with salt and pepper. 6. Serve with pasta or as a topping for bruschetta.",
+            "rating": 4.5
+            },
+            {
+            "recipe_name": "Pizza Margherita",
+            "ingredients": ["pizza dough", "tomato sauce", "Mozzarella cheese", "basil leaves", "olive oil"],
+            "cooking_method": "1. Preheat the oven to 250°C. 2. Roll out the pizza dough into a round shape. 3. Spread tomato sauce evenly over the dough, leaving a small border around the edges. 4. Tear pieces of Mozzarella cheese and scatter over the tomato sauce. 5. Add some basil leaves on top. 6. Drizzle with olive oil. 7. Bake for 10-12 minutes, until the crust is golden brown and the cheese is melted. 8. Serve hot.",
+            "rating": 4.2
+            },
+            {
+              "recipe_name": "Tortellini in Brodo",
+              "ingredients": ["pork shoulder", "mortadella", "Parmigiano-Reggiano cheese", "nutmeg", "prosciutto", "chicken broth"],
+              "cooking_method": "1. In a food processor, combine the pork shoulder, mortadella, grated Parmigiano-Reggiano cheese, and grated nutmeg until smooth. 2. Using a pasta roller, roll out the pasta dough and cut into small circles. 3. Place a small dollop of the pork mixture in the center of each circle. 4. Fold the circle in half and press the edges together to seal, then bring the corners together and press to form a tortellini shape. 5. In a pot, heat the chicken broth and add some diced prosciutto. 6. Add the tortellini to the broth and simmer until cooked. 7. Serve hot.",
+              "rating": 4.7
+              }
+            ]
+            }
+            ]
+  
